@@ -1,0 +1,16 @@
+CUSTOM License
+
+Copyright (c) 2020 PineStudios GT
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use this
+Sofware, including the rights to Use and Modify it's files and documentation.
+
+However, they may not, under any circumstance, Publish, Distribute, Sublicense and/or Sell
+copies of the Sofware.
+
+The Software is provided "as is", therefore, it's creator and contributors are NOT responsible
+in no event shall the authors or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or the use or other dealings in the
+software.
